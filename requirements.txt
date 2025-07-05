@@ -1,0 +1,17 @@
+## Requirements
+
+- Apresentação do estabelecimento
+- Cardápio separado em categorias
+    - café da manhã
+    - almoço
+    - Lanches
+    - Pizzas
+    - Janta
+    - Bebidas
+    - Sobremesas
+- tela preenchimento de informações de entrega e pagamento
+    - Escolha de retirar ou entregar
+        - Se retirar > escolher qual estabelecimento
+        - se entrega> tela de preenchimento de endereço
+    - Antes de prosseguir para o pagamento> realizar login
+    - Formas de pagamento
